@@ -2,10 +2,10 @@
 <manifest>
   <projects>
     <project name="EEPROMStore"
-             remote="https://github.com/gpgreen/EEPROMStore"
-             path="EEPROMStore"/>
+             remote="https://github.com/gpgreen/EEPROMStore.git"
+             path="libraries/EEPROMStore"/>
     <project name="gpgreen_manifest_repo"
-             remote="https://github.com/gpgreen/gpgreen_manifest_repo"
+             remote="https://github.com/gpgreen/gpgreen_manifest_repo.git"
              path="gpgreen_manifest_repo"/>
   </projects>
 </manifest>
