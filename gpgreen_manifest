@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <projects>
+    <project name="EEPROMStore"
+             remote="https://github.com/gpgreen/EEPROMStore"
+             path="EEPROMStore"/>
+    <project name="gpgreen_manifest_repo"
+             remote="https://github.com/gpgreen/gpgreen_manifest_repo"
+             path="gpgreen_manifest_repo"/>
+  </projects>
+</manifest>
+
